@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-04-21 17:33:47 -0700
-categories: jekyll update
+permalink: /testing
 ---
 TEST TEST TEST
 
