@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adhiv's Thoughts
+title: adhiv.xyz
 email: adhivd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A space for thoughts, notes, and essays. Practicing how to write about
@@ -23,6 +23,7 @@ baseurl: "" # the subpath of ow your site, e.g. /blog
 url: "https://adhiv.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: adhivdhar
 github_username:  adhivd
+linkedin_username: adhivd
 
 # Build settings
 markdown: kramdown
