@@ -18,6 +18,7 @@ To learn more about me as a person, head over to <a href="http://adhiv.com" targ
 <form action="https://berkeley.us3.list-manage.com/subscribe/post?u=ea8271b23a6709b32e5d1d418&amp;id=ed01a34949" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Want to stay in the loop? </h2>
+    <p>Drop your email to get updates on whenever I post notes.</p>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
