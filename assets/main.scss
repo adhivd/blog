@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.date-custom {
+
+}
+
+.home{
+
+    .post-link {
+        display: inline-block;
+        color: #0288D1;
+        font-size: 18px;
+    }
+
+    a {
+        color: #0288D1;
+    }
+
+    .post-link:visited {
+        color: #545454;
+    }
+
+    .post-meta {
+    font-size: 14px;
+    color: #a29e9e;
+}
+}
+
+// .post-link {
+//     display: inline-block;
+// }
