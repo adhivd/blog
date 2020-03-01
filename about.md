@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 A space for thoughts, notes, and essays. Practicing how to write about
